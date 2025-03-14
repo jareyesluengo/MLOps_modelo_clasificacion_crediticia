@@ -1,0 +1,16 @@
+# folder
+# data/output/
+model
+# scr
+tfm-venv
+notebooks/info
+reporte/info
+reporte/html
+img/report_img
+notebooks/common/__pycache__/
+my_dir_1
+versions
+
+#files
+requirements_colab.txt
+presentación_tfm_Joel_Reyes_Luengo.pdf

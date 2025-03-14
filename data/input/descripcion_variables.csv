@@ -1,0 +1,29 @@
+ID,Variable,Tipo,Descripción Inglés,Descripción Español,Comentarios
+1,ID,string,Unique identification of an entry,Identificador único de registro,prefijo 0x
+2,Customer_ID,string, Uniqueidentification of a person,Identificador único de cliente,prefijo CUS_0
+3,Month,string,Month of the year,Mes del año,Sólo tiene 8 meses
+4,Name,string,Name of a person,Nombre del cliente,
+5,Age,int,Age of the person,Edad del cliente,valores terminados en  '_'
+6,SSN,string,Social security number of a person,Número de Seguro Social,valores '#F%$D@*&8'
+7,Occupation,string,Occupation of the person,Ocupación o título del  cliente,valores '_______'
+8,Annual_Income,float,Annual income of the person,Ingreso anual del cliente,valores terminados en  '_'
+9,Monthly_Inhand_Salary,float,Monthly base salary of a person,Salario base mensual del cliente,
+10,Num_Bank_Accounts,int,Number of bank accounts a person holds,Número de cuentas bancarias que posee el cliente,
+11,Num_Credit_Card,int,Number of other credit cards held by a person,Número de tarjetas de crédito que posee el cliente.,
+12,Interest_Rate,int,Interest rate on credit card,Tasa de interés asociada a las tarjetas de crédito,
+13,Num_of_Loan,int,Number of loans taken from the bank,Número de préstamos que tiene con el banco,valores terminados en  '_'
+14,Type_of_Loan,string, Types of loan taken by a person,Tipo o categoría del préstamo,cadena string contiene valores duplicados
+15,Delay_from_due_date,int,Average number of days delayed from the payment date,Retraso promedio en días en el pago desde la fecha de vencimiento,
+16,Num_of_Delayed_Payment,int, Average number of payments delayed by a person,Número promedio de pagos retrasados,valores terminados en  '_'
+17,Changed_Credit_Limit,float,The percentage change in credit card limit,Porcentaje de cambio en el limite de la tarjeta de crédito,valores '_'
+18,Num_Credit_Inquiries,float, Number of credit card inquiries,Número de consultas de crédito realizadas por el cliente,
+19,Credit_Mix,string,Classification of the mix of credits,Variedad de tipos de crédito en el perfil financiero del cliente,valores '_'
+20,Outstanding_Debt,float, Remaining debt to be paid (in USD),Deuda total pendiente del cliente en dólares,valores terminados en  '_'
+21,Credit_Utilization_Ratio,float,Utilization ratio of credit card,Razón de utilización de la tarjeta de crédito,
+22,Credit_History_Age,string,Age of credit history of the person,Antigüedad del historial crediticio del cliente.,se puede convertir a flotante
+23,Payment_of_Min_Amount,string,Represents whether only the minimum amount was paid by the person,Comportamiento de pago con respecto al monto mínimo adeudado,valores NM
+24,Total_EMI_per_month,float,Monthly EMI (Equated Monthly Installments) payments (in USD) ,Total de Cuotas Mensuales Equivalentes pagadas,
+25,Amount_invested_monthly,float,Monthly amount invested by the customer (in USD),Cantidad invertida por el cliente mensualmente,valores '__10000__'
+26,Payment_Behaviour,string,Payment behavior of the customer (in USD),Comportamiento de pagos del cliente en USD,valores !@9#%8
+27,Monthly_Balance,float,Monthly balance amount of the customer (in USD),Saldo mensual en las cuentas financieras del cliente,valor '__-333333333333333333333333333__'
+28,Credit_Score,string,"Represents the bracket of credit score (Poor, Standard, Good)","Representa el rango de puntuación crediticia (Pobre, Estándar, Buena) ",
