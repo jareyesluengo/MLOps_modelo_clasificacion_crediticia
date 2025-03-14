@@ -50,10 +50,8 @@ TFM_DATA_SCIENTIST
 ## Otros archivos
 > * requirements.txt: librerías utilizadas durante el desarrollo.
 
-# Calificación y Comentarios de Retroalimentación
-## Evaluador: Santiago Mota
-## Calificación: 10
-
+# Comentarios de Retroalimentación y Calificación
+## Comentarios de Retroalimentación
 > * DATASET DISPONIBLE: SÍ - KAGGLE - PREDICCIÓN CREDIT SCORING.
 > * APLICABILIDAD: MUY BIEN
 > * METODOLOGÍA: MUY BIEN
@@ -62,7 +60,6 @@ TFM_DATA_SCIENTIST
 > * GRÁFICOS:  MUY BIEN
 > * TECNOLOGÍAS EMPLEADAS: MUY BIEN
 > * COMENTARIOS ADICIONALES:
-
 Enhorabuena por el TFM, está muy bien desarrollado. Cubre todos los elementos en los que se ha insistido en la "Guía": Amplitud de algoritmos, explicatividad y productivización (en Sagemaker!).
 
 El video es muy claro en presentar los resultados y la metodología seguida.
@@ -73,3 +70,5 @@ Se han explorado múltiples algoritmos y se han valorado resultados entre ellos.
 El TFM se completa con la productivización en Sagemaker incluyendo un end-point de explotación, aspecto que puede ayudar al uso empresarial.
 
 Enhorabuena por el trabajo.
+**Evaluador: Santiago Mota**
+## Calificación: 10
